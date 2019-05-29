@@ -1,5 +1,5 @@
 <h1> Natural Language Processing PJT </h1>
-<u> used data: Depression </u>
+used data: Depression <br>
 1. read the data file. <br>
 2. seperate title and abstract by using split function. <br>
 3. tokenize title and abstract by using word_tokenize, sent_tokenize. <br>
